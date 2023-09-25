@@ -1,4 +1,4 @@
-module github.com/golang-auth/go-gssapi/v2
+module github.com/abkms/go-gssapi/v2
 
 go 1.15
 
